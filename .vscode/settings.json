@@ -1,0 +1,9 @@
+{
+    "python.formatting.provider": "black",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
